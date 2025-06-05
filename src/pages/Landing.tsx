@@ -4,11 +4,12 @@ import AnimatedBackground from '../components/AnimatedBackground'
 
 function Landing() {
   return (
-    <div className="relative min-h-screen w-full overflow-hidden bg-black">
+    <div className="relative min-h-screen w-full overflow-hidden bg-neutral-900">
       <AnimatedBackground />
       <Header />
       <Hero />
     </div>
   )
 }
+
 export default Landing

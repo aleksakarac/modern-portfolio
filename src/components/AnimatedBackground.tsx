@@ -1,7 +1,7 @@
 function AnimatedBackground() {
   return (
     <div className="absolute inset-0 z-0">
-      {/* Animated background will go here */}
+      {/* Placeholder: Add animated background here */}
     </div>
   )
 }
